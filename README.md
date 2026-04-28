@@ -1,16 +1,99 @@
-# React + Vite
+# 📝 ToDo List App
+
+A modern and fully responsive **ToDo List Application** built using **React.js** and **Tailwind CSS**.
+This app allows users to manage their daily tasks efficiently with **persistent data storage**, ensuring tasks remain saved even after page reloads.
+
 ---
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Add, edit, and delete tasks
+💾 Persistent data storage (tasks remain saved)
+📱 Fully responsive design (mobile + desktop)
+⚡ Fast and smooth UI using React
+🎨 Clean and modern UI with Tailwind CSS
+✔️ Mark tasks as completed
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* ⚛️ React.js
+* 🎨 Tailwind CSS
+* 💡 JavaScript (ES6+)
+* 🌐 Local Storage (for data persistence)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+<!-- Add your screenshots here -->
+
+<!-- Example:
+![App Screenshot](./screenshots/app.png)
+-->
+
+---
+
+## 📂 Project Structure
+
+```
+ToDo-App/
+│── src/
+│   ├── components/
+│   ├── App.js
+│   ├── index.js
+│── public/
+│── package.json
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/todo-app.git
+
+# Navigate to project folder
+cd todo-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+---
+
+## 💡 Usage
+
+* Add your daily tasks
+* Mark tasks as completed
+* Delete tasks when done
+* Your data will be saved automatically
+
+---
+
+## 🎯 Future Improvements
+
+* 🔔 Task reminders
+* 📅 Due dates feature
+* 🌙 Dark mode
+* ☁️ Backend integration (MongoDB / Firebase)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📬 Contact
+
+📧 Email: [manuk0267@gmail.com](mailto:manuk0267@gmail.com)
